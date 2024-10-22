@@ -1,3 +1,5 @@
+# KiCAD Logos Footprint Library
+
 A collection of KiCAD Logo Footprints for your PCB Designs.
 You can install it by adding footprint and adding the folder.
 
